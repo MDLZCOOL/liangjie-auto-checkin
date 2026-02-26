@@ -1,6 +1,6 @@
 # liangjie-auto-checkin
 
-量界智算自动签到领tokens
+量界智算自动签到
 
 https://liangjiewis.com/
 
@@ -10,6 +10,6 @@ Fork 下来后，在`Settings`-`Secrets and Variables`-`Actions`中添加Reposit
 session=XXXXXXX
 ```
 
-这个需要自己去抓Cookie，后面如果过期了，需要重新抓，然后更新`LIANGJIE_COOKIE`。
+这个需要自己去抓Cookie，替换掉`session`的值，后面如果过期了，需要重新抓，然后更新`LIANGJIE_COOKIE`。
 
 [MIT License](LICENSE)
